@@ -4,7 +4,7 @@ import glob
 import ipaddress
 
 # default directory for checking ip behind cdn
-dir = '/mnt/c/Users/H/Desktop/Hamnal/Codes/Me/update-ips-behind-cdns-providers/cidrs'
+dir = '/mnt/c/Users/H/Desktop/Hamnal/cidrs'
 
 
 # read cidrs in default path and check for ip in cidr
